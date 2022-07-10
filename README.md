@@ -6,6 +6,10 @@ A web app that takes memes from a meme api and allows users to add and edit meme
 
 In the project directory, you can run:
 
+### `yarn install`
+
+To install all necessary dependencies to run app.
+
 ### `yarn start`
 
 Runs the app in the development mode.\
